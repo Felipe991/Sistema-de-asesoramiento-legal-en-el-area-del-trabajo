@@ -1,0 +1,17 @@
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.csproj.AssemblyReference.cache
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.csproj.ResolveComReference.cache
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.AssemblyInfoInputs.cache
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.AssemblyInfo.cs
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.csproj.CoreCompileInputs.cache
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\bin\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.exe
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\bin\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.deps.json
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\bin\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.runtimeconfig.json
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\bin\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.runtimeconfig.dev.json
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\bin\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.dll
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\bin\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.pdb
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.dll
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.pdb
+C:\Users\YOGA\source\repos\Felipe991\Sistema-de-Asesoramiento-legal-en-el-rea-del-trabajo\obj\Debug\netcoreapp3.1\Sistema de Asesoramiento legal en el área del trabajo.genruntimeconfig.cache
